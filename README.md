@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWithFED
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...WebDevelopment 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...designs
 - 📫 How to reach me ...
 
 <!---
